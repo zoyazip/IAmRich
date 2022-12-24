@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  RocketLaunch
+//  IAmRich
 //
-//  Created by MacBook on 21/12/2022.
+//  Created by MacBook on 24/12/2022.
 //
 
 import UIKit
